@@ -1,16 +1,17 @@
 # Kard - A Simple Contact Sharing Website
+-------------------------------------------
+
+-Kard is a simple website were you register and fill your contact information, basic information, and social networks profiles so that you'd be able to share all your contact information by a single link.
 
 # Video
 
 [![Kard - A Simple Contact Sharing Website](https://github.com/SherifAbdlNaby/Kard---A-Simple-Contact-Sharing-Website/blob/master/Screenshots/Screen%20(6).png)](https://youtu.be/XNikkxXPqJ8 "Kard - A Simple Contact Sharing Website - Click Here to Watch!")
 
-This the 2-Minutes presentation video : https://youtu.be/XNikkxXPqJ8
+2-Minutes presentation video : https://youtu.be/XNikkxXPqJ8
 
 A Link to the full version : https://youtu.be/ZSbI4Z9q90Q
 
 # Description
-
--Kard is a simple website were you register and fill your contact information, basic information, and social networks profiles so that you'd be able to share all your contact information by a single link.
 
 -Have you ever been in the situation when you've just met someone and he asks for your mobile number, Facebook, LinkedIn, and your Twitter ? Usually you will cycle along your profiles, copy and send each profile's link separately. This where Kard comes in handy, you will only fill your information once and use a single link to share, also if you changed one of your contact infos.  (ex. Phone No. or Email ) It will be updated for every one who has the link and you won't have to share your updated phone number to everyone again.
 
